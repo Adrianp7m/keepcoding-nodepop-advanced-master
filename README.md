@@ -99,7 +99,7 @@ Esta aplicación hace uso de los siguientes módulos de npm:
 
 Para descargar este repositorio:
 ```
-\downloads\git clone https://github.com/Adrianp7m/nodepop-back-end-avanced
+\downloads\git clone https://github.com/Adrianp7m/keepcoding-nodepop-advanced-master
 ```
 
 ### Instalación de modulos
